@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>f1_car_10357.jpg</filename>
+	<path>C:\Users\nuzul\Documents\MSc Data Science\AC53014 Machine Learning For Data Science\Assignment 2 - TensorFlow Object Detection API\Data\Validation\Images\f1_car_10357.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>964</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>f1_car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>41</ymin>
+			<xmax>956</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
