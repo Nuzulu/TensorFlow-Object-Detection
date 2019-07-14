@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>F1_Car_10027.jpg</filename>
+	<path>C:\Users\nuzul\Downloads\F1 Cars\Train\Images\F1_Car_10027.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1680</width>
+		<height>999</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>f1_car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>291</ymin>
+			<xmax>1596</xmax>
+			<ymax>861</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shell_logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>857</xmin>
+			<ymin>631</ymin>
+			<xmax>907</xmax>
+			<ymax>681</ymax>
+		</bndbox>
+	</object>
+</annotation>

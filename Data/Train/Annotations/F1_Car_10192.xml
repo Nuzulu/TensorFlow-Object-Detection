@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>F1_Car_10192.jpg</filename>
+	<path>C:\Users\nuzul\Downloads\F1 Cars\Train\Images\F1_Car_10192.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>18</ymin>
+			<xmax>2551</xmax>
+			<ymax>1120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1257</xmin>
+			<ymin>350</ymin>
+			<xmax>1447</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+</annotation>

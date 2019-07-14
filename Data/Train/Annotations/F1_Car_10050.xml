@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>F1_Car_10050.jpg</filename>
+	<path>C:\Users\nuzul\Downloads\F1 Cars\Train\Images\F1_Car_10050.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>812</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>f1_car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>5</ymin>
+			<xmax>1263</xmax>
+			<ymax>607</ymax>
+		</bndbox>
+	</object>
+</annotation>
