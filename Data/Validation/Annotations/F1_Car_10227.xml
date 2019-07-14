@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>F1_Car_10227.jpg</filename>
-	<path>C:\Users\nuzul\Downloads\F1 Cars\Validation\Images\F1_Car_10227.jpg</path>
+	<path>C:\Users\nuzul\Documents\GitHub\TensorFlow-Object-Detection\Data\Validation\Images\F1_Car_10227.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,18 +33,6 @@
 			<ymin>312</ymin>
 			<xmax>516</xmax>
 			<ymax>406</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>ford_logo</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>585</xmin>
-			<ymin>382</ymin>
-			<xmax>665</xmax>
-			<ymax>430</ymax>
 		</bndbox>
 	</object>
 </annotation>
