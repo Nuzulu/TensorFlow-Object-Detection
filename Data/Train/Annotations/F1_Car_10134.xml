@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>F1_Car_10134.jpg</filename>
-	<path>C:\Users\nuzul\Downloads\F1 Cars\Train\Images\F1_Car_10134.jpg</path>
+	<path>C:\Users\nuzul\Documents\GitHub\TensorFlow-Object-Detection\Data\Train\Images\F1_Car_10134.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,18 @@
 			<ymin>567</ymin>
 			<xmax>1297</xmax>
 			<ymax>884</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red_bull_logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>648</ymin>
+			<xmax>386</xmax>
+			<ymax>710</ymax>
 		</bndbox>
 	</object>
 </annotation>

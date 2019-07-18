@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>F1_Car_10170.jpg</filename>
-	<path>C:\Users\nuzul\Downloads\F1 Cars\Train\Images\F1_Car_10170.jpg</path>
+	<path>C:\Users\nuzul\Documents\GitHub\TensorFlow-Object-Detection\Data\Train\Images\F1_Car_10170.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,42 @@
 			<ymin>593</ymin>
 			<xmax>399</xmax>
 			<ymax>670</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ferrari_logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>788</ymin>
+			<xmax>358</xmax>
+			<ymax>820</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shell_logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>837</ymin>
+			<xmax>160</xmax>
+			<ymax>862</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shell_logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>448</xmin>
+			<ymin>851</ymin>
+			<xmax>475</xmax>
+			<ymax>882</ymax>
 		</bndbox>
 	</object>
 </annotation>

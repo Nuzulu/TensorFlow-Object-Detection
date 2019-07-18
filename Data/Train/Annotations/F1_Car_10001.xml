@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>F1_Car_10001.jpg</filename>
-	<path>C:\Users\nuzul\Downloads\F1 Cars\Train\Images\F1_Car_10001.jpg</path>
+	<path>C:\Users\nuzul\Documents\GitHub\TensorFlow-Object-Detection\Data\Train\Images\F1_Car_10001.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -57,30 +57,6 @@
 			<ymin>375</ymin>
 			<xmax>560</xmax>
 			<ymax>431</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>vodafone_logo</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>728</xmin>
-			<ymin>448</ymin>
-			<xmax>765</xmax>
-			<ymax>493</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>vodafone_logo</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>796</xmin>
-			<ymin>449</ymin>
-			<xmax>838</xmax>
-			<ymax>486</ymax>
 		</bndbox>
 	</object>
 </annotation>
